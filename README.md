@@ -1,4 +1,4 @@
-# resumetemplate
+# Portfolio Website
 An online resume template in reactjs  
 Instruction to run:-  
 1)Clone the repo  
